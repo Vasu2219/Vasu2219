@@ -4,7 +4,7 @@ I'm a second-year B.Tech student at Kalasalingam Academy of Research and Educati
 
 - 🌱 Currently exploring the world of software development and learning new technologies.
 - 💻 Proficient in Java, Python, C, and JavaScript.
-- 📧 You can reach me at: [vasu@gmail.com](mailto:vasu@gmail.com)
+- 📧 You can reach me at: [gvasu1292@gmail.com](mailto:gvasu1292@gmail.com)
 
 ## Skills
 
