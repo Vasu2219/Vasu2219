@@ -13,7 +13,7 @@ I'm a second-year B.Tech student at Kalasalingam Academy of Research and Educati
 - *Tools:* Git, Visual Studio Code
 ## Education
 
-- *Bachelor of Technology (B.Tech)* in [Your Major]  
+- *Bachelor of Technology (B.Tech)*  
   Kalasalingam Academy of Research and Education
 
 ## Connect with Me
