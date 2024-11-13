@@ -8,8 +8,8 @@ I'm a second-year B.Tech student at Kalasalingam Academy of Research and Educati
 
 ## Skills
 
-- *Programming Languages:* Java, Python, C, JavaScript
-- *Web Development:* HTML, CSS, React
+- *Programming Languages:* Java, Python, C.
+- *Web Development:* HTML, CSS,js,flask
 - *Tools:* Git, Visual Studio Code
 ## Education
 
